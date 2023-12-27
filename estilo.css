@@ -1,0 +1,14 @@
+/* Estilos para a lista ordenada */
+#orderedList {
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#orderedList li {
+    margin-bottom: 2px;
+    color: aliceblue;
+}
+* {
+    background-color: burlywood;
+}
